@@ -18,7 +18,10 @@ The world's largest musical instrument.
 - Python. My favorite computer language.
 - CPP. Noting to say. Everyone should learn C and CPP.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam-Chai)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Chai&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam-Chai)](https://github.com/anuraghazra/github-readme-stats) 
 <!--
 **Sam-Chai/Sam-Chai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
