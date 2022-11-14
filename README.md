@@ -16,7 +16,7 @@ The world's largest musical instrument.
 ### 👨‍💻 What computer languages that I'm codeing with?
 - Java. The Minecraft used. To codeing Forge Mods and Bukkit Plugins.
 - Python. My favorite computer language.
-- CPP. Noting to say. Everyone should learn C and CPP.
+- Golang. But I'm not so proficient on it.
 - MATLAB. Strictly speaking, this is not a real computer language.
 
 
