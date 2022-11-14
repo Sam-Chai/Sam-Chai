@@ -5,13 +5,13 @@
 - And a lot of Minecraft Mods' fork.
 
 ### 🔭 I’m currently working on...
-I'm good at Computer Science, Theoretical physics and Biomolecular.
-Working like a 🐶 at My uncle's company in China, Jilin ChangChun. A normal Neural Network Modeling Engineer.
-BUT, After 2 years I am leaving and go to a university in Japan to study more knowedge in my area of expertise.
+- Japanese International Student Exam. Prepare to Study in Japan in 2023.4.
+- I'm a Movies & Game composer, philharmonic conductor, club DJ, broadcaster and also an organist.
+- Known for produce OST for TV drama, Film and Games.
+- The DJ of Dr.Brain
 
 ### 🎹 I‘m currently learning...
-Pipe organ. Yes, the pipe organ.
-The world's largest musical instrument.
+- Pipe organ. Yes, the pipe organ. The world's largest musical instrument.
 
 ### 👨‍💻 What computer languages that I'm codeing with?
 - Java. The Minecraft used. To codeing Forge Mods and Bukkit Plugins.
