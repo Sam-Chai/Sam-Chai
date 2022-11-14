@@ -1,4 +1,6 @@
 ### Hi there 👋, I'm Sam_Chai
+- 中国用户请查看我的中文主页 -> [zh_CN](https://github.com/Sam-Chai/Sam-Chai/blob/main/README_zh_CN)
+- For English or Internationality vistor please check this page.
 ### 🎨 Which project I'm working?
 - HMI (Hyper-V Management Interface): A Hyper-V Virtual Machine manager software powered by Python.
 - BotW Minecraft Server: My Minecraft Server. Support by Mohist server core, and I'm working on Forge Mods and Bukkit Plugins writing.
